@@ -254,7 +254,8 @@ Table of Contents
 | :fr: `:fr:` | :es: `:es:` | :it: `:it:` |
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
-
+| :world_map: `:world_map:` |
+ 
 ## Symbols ##
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
